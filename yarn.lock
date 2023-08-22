@@ -4442,6 +4442,11 @@ chownr@^2.0.0:
   resolved "https://registry.yarnpkg.com/chownr/-/chownr-2.0.0.tgz#15bfbe53d2eab4cf70f18a8cd68ebe5b3cb1dece"
   integrity sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ==
 
+chromatic@^6.23.0:
+  version "6.23.0"
+  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-6.23.0.tgz#33dfc78a74d690e843f4b4ae88b2555464d10293"
+  integrity sha512-y30/n2b/lCGywgvaiHKwg4WaFVMNIUXHvV7Cyn8lWAPgXhbkOmfiyLUkqFi+X7dzzwAUq8xOmAkpyRyoD5+utA==
+
 ci-info@^3.2.0:
   version "3.8.0"
   resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-3.8.0.tgz#81408265a5380c929f0bc665d62256628ce9ef91"
